@@ -1,2 +1,2 @@
 # outline-wiki-backup
-Python script to backup your dedicated version of outline to Telegram chat 
+Python script to backup your dedicated (not for cloud one) version of Outline Wiki to Telegram chat
